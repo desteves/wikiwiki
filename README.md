@@ -1,5 +1,7 @@
 # wikiwiki
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/f7e515e1-ba98-44a4-b4a7-ba5b987825aa.svg?orgId=679096383598)](https://app.soluble.cloud/repos/details/github.com/desteves/wikiwiki?orgId=679096383598)  
+
 Confluent Cloud Kafka + MongoDB Atlas. Source + Sink Connector Demos.
 We'll be using  Wikipedia change edits for both demos.
 
